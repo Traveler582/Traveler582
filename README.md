@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Traveler582
 - 👀 I’m interested in Software Engineering & Game Development
 - 🌱 I’m currently learning How to make games
-- Email me at adrangalondel582@gmail.com !
 - 😄 Pronouns: he/him/his
 - ⚡ Fun fact: I'm the incumbent Webmaster of the ACM Student Chapter @ the University of Scranton!
 
